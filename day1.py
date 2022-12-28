@@ -1,15 +1,3 @@
-# Program to print every line in python:
-# f = open("data.txt", "r")
-
-# line = f.readline()
-
-# while line:
-#     print(line)
-#     line = f.readline()
-
-# f.close()
-
-
 import heapq
 
 
